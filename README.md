@@ -1,3 +1,3 @@
-## Denite quickfix
+## Repository for experimental Denite sources
 
-Poor source for `:Denite quickfix`.
+Everything is under construction.
